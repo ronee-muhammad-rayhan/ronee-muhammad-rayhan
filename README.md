@@ -28,6 +28,9 @@
 <img src="https://github.com/ronee-muhammad-rayhan/ronee-muhammad-rayhan/blob/main/images/icons/JavaScript.png"/>
 </p>
 <p align="center">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,firebase,mongodb,tailwind,bootstrap" />
+  </a>
   <!--
 <img src="https://github.com/ronee-muhammad-rayhan/ronee-muhammad-rayhan/blob/main/images/icons/react.png"/>
 <img src="https://github.com/ronee-muhammad-rayhan/ronee-muhammad-rayhan/blob/main/images/icons/tailwind.png"/>

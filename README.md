@@ -1,6 +1,11 @@
-<div width="600" height="300">
-[![MasterHead](https://raw.githubusercontent.com/ronee-muhammad-rayhan/ronee-muhammad-rayhan/main/assets/images/banner.avif)](https://www.linkedin.com/in/roneemrayhan-rayhanworld)
-</div>
+<p align="center">
+<a href="https://linkedin.com/in/roneemrayhan-rayhanworld">
+<img width="600" height="300" src="https://i.ibb.co/wS53Bvq/creative-abstract-quantum-illustration-23-2149236239.jpg" />
+</a>
+</p>
+<!-- 
+[![MasterHead](https://raw.githubusercontent.com/ronee-muhammad-rayhan/ronee-muhammad-rayhan/main/assets/images/banner.avif)](https://www.linkedin.com/in/roneemrayhan-rayhanworld) -->
+
 <h1 align="center">Welcome to My Profile</h1>
 <h3 align="center">I'm a sincere React frontend developer from Bangladesh</h3>
 <br/>

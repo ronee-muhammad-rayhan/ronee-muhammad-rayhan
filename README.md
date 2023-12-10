@@ -29,7 +29,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,firebase,mongodb,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,firebase" />
   </a>
   <!--
 <img src="https://github.com/ronee-muhammad-rayhan/ronee-muhammad-rayhan/blob/main/images/icons/react.png"/>

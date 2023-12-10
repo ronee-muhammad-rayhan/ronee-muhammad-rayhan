@@ -1,7 +1,5 @@
 <a href="https://linkedin.com/in/roneemrayhan-rayhanworld">
-<img src="https://i.ibb.co/wS53Bvq/creative-abstract-quantum-illustration-23-2149236239.jpg
-https://i.ibb.co/VQngvC5/software-development-isometric-landing-page-website-program-coding-cross-platform-algorithm-programm.jpg
-https://i.ibb.co/bNZf9GM/abstract-futuristic-background-with-3d-design-1361-3532.jpg" />
+<img src="https://i.ibb.co/wS53Bvq/creative-abstract-quantum-illustration-23-2149236239.jpg" />
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ronee-muhammad-rayhan&theme=soft-green)](https://git.io/streak-stats)

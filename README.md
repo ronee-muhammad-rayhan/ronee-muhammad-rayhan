@@ -28,9 +28,11 @@
 <img src="https://github.com/ronee-muhammad-rayhan/ronee-muhammad-rayhan/blob/main/images/icons/JavaScript.png"/>
 </p>
 <p align="center">
+  <!--
 <img src="https://github.com/ronee-muhammad-rayhan/ronee-muhammad-rayhan/blob/main/images/icons/react.png"/>
 <img src="https://github.com/ronee-muhammad-rayhan/ronee-muhammad-rayhan/blob/main/images/icons/tailwind.png"/>
 <img src="https://github.com/ronee-muhammad-rayhan/ronee-muhammad-rayhan/blob/main/images/icons/firebase.png"/>
+  -->
 </p>
 <p align="center">
 <img src="https://github.com/ronee-muhammad-rayhan/ronee-muhammad-rayhan/blob/main/images/icons/node.png"/>

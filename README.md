@@ -1,11 +1,14 @@
-<p align="center">
 <a href="https://linkedin.com/in/roneemrayhan-rayhanworld">
-<img height="300" width="700" src="https://i.ibb.co/wS53Bvq/creative-abstract-quantum-illustration-23-2149236239.jpg" />
+<img src="https://i.ibb.co/wS53Bvq/creative-abstract-quantum-illustration-23-2149236239.jpg" />
 </a>
-</p>
+
+## :chart_with_upwards_trend: Current Stats
+
+<br />
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ronee-muhammad-rayhan&theme=soft-green)](https://git.io/streak-stats)
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ronee-muhammad-rayhan&theme=soft-green&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
+
 ## :mailbox: Reach me out
 
 <br />

@@ -1,5 +1,5 @@
-<a width="600" height="100" href="https://linkedin.com/in/roneemrayhan-rayhanworld">
-<img src="https://i.ibb.co/wS53Bvq/creative-abstract-quantum-illustration-23-2149236239.jpg" />
+<a href="https://linkedin.com/in/roneemrayhan-rayhanworld">
+<img width="600" height="300" src="https://i.ibb.co/wS53Bvq/creative-abstract-quantum-illustration-23-2149236239.jpg" />
 </a>
 
 ## :chart_with_upwards_trend: Current Stats

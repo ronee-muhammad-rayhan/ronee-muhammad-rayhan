@@ -2,7 +2,8 @@
 <a href="https://linkedin.com/in/roneemrayhan-rayhanworld">
 <img height="300" width="700" src="https://i.ibb.co/wS53Bvq/creative-abstract-quantum-illustration-23-2149236239.jpg" />
 </a>
-
+</p>
+<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ronee-muhammad-rayhan&theme=soft-green)](https://git.io/streak-stats)
 </p>
 ## :mailbox: Reach me out

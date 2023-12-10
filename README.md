@@ -1,6 +1,5 @@
-<p align="center">
-<a href="https://linkedin.com/in/roneemrayhan-rayhanworld">
-<img width="600" height="300" src="https://i.ibb.co/wS53Bvq/creative-abstract-quantum-illustration-23-2149236239.jpg" />
+<a href="muhammad@roneemrayhan.com">
+<img src="https://banbeis.portal.gov.bd/sites/default/files/files/banbeis.portal.gov.bd/officer_list/3801eca0_d28c_49d4_871e_7bf4c1477c03/rayhan.jpg" />
 </a>
 </p>
 
@@ -15,17 +14,7 @@
 
 <br />
 
-<p align="center">
-  <a href="https://linkedin.com/in/roneemrayhan-rayhanworld">
-    <img height="75" src="https://github.com/ronee-muhammad-rayhan/ronee-muhammad-rayhan/blob/main/images/icons/Linkedin.png"/>
-  </a>
-  <a href="https://www.facebook.com/roneemrayhan">
-    <img height="75" src="https://github.com/ronee-muhammad-rayhan/ronee-muhammad-rayhan/blob/main/images/icons/Facebook.png">
-  </a>
-  <a href="https://twitter.com/RoneeMRayhanEdu">
-    <img height="75" src="https://github.com/ronee-muhammad-rayhan/ronee-muhammad-rayhan/blob/main/images/icons/Twitter.png">
-  </a>
-</p>
+[<p align="center"><img height="75" src="https://github.com/ronee-muhammad-rayhan/ronee-muhammad-rayhan/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/roneemrayhan-rayhanworld)[<img height="75" src="https://github.com/ronee-muhammad-rayhan/ronee-muhammad-rayhan/blob/main/images/icons/Facebook.png">](https://www.facebook.com/roneemrayhan)[<img height="75" src="https://github.com/ronee-muhammad-rayhan/ronee-muhammad-rayhan/blob/main/images/icons/Twitter.png"> </p>](https://www.linkedin.com/in/roneemrayhan-rayhanworld)
 
 <br />
 

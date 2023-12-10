@@ -26,13 +26,13 @@
 <br />
 
 <p align="center">
-  <a href="https://linkedin.com/in/roneemrayhan-rayhanworld">
+  <a href="https://linkedin.com/in/roneemrayhan-rayhanworld" target="_blank">
     <img height="75" src="https://github.com/ronee-muhammad-rayhan/ronee-muhammad-rayhan/blob/main/images/icons/Linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/roneemrayhan">
+  <a href="https://www.facebook.com/roneemrayhan" target="_blank">
     <img height="75" src="https://github.com/ronee-muhammad-rayhan/ronee-muhammad-rayhan/blob/main/images/icons/Facebook.png">
   </a>
-  <a href="https://twitter.com/RoneeMRayhanEdu">
+  <a href="https://twitter.com/RoneeMRayhanEdu" target="_blank">
     <img height="75" src="https://github.com/ronee-muhammad-rayhan/ronee-muhammad-rayhan/blob/main/images/icons/Twitter.png">
   </a>
 </p>
